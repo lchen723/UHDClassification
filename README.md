@@ -7,3 +7,4 @@ This repository summarizes additional information in the manuscript entitled "Ul
 5. simulation_LDA-XI-clime.R: The LDA-XI-clime method for simulation studies.
 6. simulation_QDA-XI-JGL.R: The QDA-XI-JGL method for simulation studies.
 7. simulation-existing-methods.zip: The implementation of existing methods for simulation studies.
+8. GCM.csv: A real dataset.
